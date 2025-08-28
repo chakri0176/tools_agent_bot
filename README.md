@@ -135,7 +135,3 @@ The agent will decide which **tool(s)** to call (web search, Wikipedia, or ArXiv
 Issues and PRs are welcome—feel free to propose more tools (e.g., NewsAPI, SerpAPI) or UI improvements (chat history, citations, expandable tool traces).
 
 ---
-
-## 🧾 License
-
-Add your preferred license (e.g., MIT) before publishing.
