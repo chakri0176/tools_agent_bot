@@ -13,7 +13,7 @@ A beginner‑friendly **one‑file Streamlit app** that lets you **chat** and ha
 - **Streaming responses** in the UI with live tool traces.
 - **No local database**—just run and ask questions.
 
-fileciteturn1file0
+
 
 ---
 
