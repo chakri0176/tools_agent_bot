@@ -2,7 +2,6 @@
 
 A beginner‑friendly **one‑file Streamlit app** that lets you **chat** and have the assistant use web tools (DuckDuckGo search, ArXiv, Wikipedia) to find and summarize information. Under the hood it uses **LangChain Agents** powered by a **Groq LLM** (`llama-3.1-8b-instant`).
 
-_This README is based on the uploaded `app.py` source file._
 
 ---
 
